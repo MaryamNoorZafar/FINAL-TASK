@@ -1,0 +1,109 @@
+
+
+img{
+width: 100%;
+
+
+}
+
+
+div{
+background: rgb(220, 98, 38);
+width: 30%;
+color: white;
+text-align: center;
+position: absolute;
+top: 86%;
+left: 35%;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+
+.circle-1{
+border-radius: 50%;
+background-color: rgb(220, 98, 38);
+width: 5%;
+height: 10%;
+position: absolute;
+top: 120%;
+left: 20%;
+transition-duration: 0.4s;
+margin-left: 20%
+}
+
+.circle-1:hover{
+transition: 0.4s ease;
+background-color: rgb(99, 97, 97);
+
+
+    }
+.wallet{
+    position: absolute;
+    top: 30%;
+    left: 20%;
+font-size: 500%;
+width: 60%;
+
+}
+
+h4{
+    position: absolute;
+    top: 80%;
+    left: 150%;
+color: black;
+
+
+}
+
+
+.cufh{
+    position: absolute;
+    top: 200%;
+    right: 0%;
+width: 400%;
+left: 1%;
+
+}
+
+/* .bn{
+position: absolute;
+left: ;
+
+
+
+
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
